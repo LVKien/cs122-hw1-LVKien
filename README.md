@@ -9,8 +9,10 @@
 - Nhân một phân số với một số nguyên
 - Tối giản phân số
 
-### Bài 2: Xây dựng lớp số thực có dạng a + bi trong đó a là phần nguyên, b là phần thực và xây dựng các phương thức sau:
-- Công hai số thực
-- Trừ hai số thực
-- Nhân hai số thực
-- Trị tuyệt đối của số thực
+### Bài 2: Xây dựng lớp số phức có dạng a + bi trong đó a là phần nguyên, b là phần phức và xây dựng các phương thức sau:
+- Công hai số phức
+- Trừ hai số phức
+- Nhân hai số phức
+- Trị tuyệt đối của số phức
+
+
